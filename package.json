@@ -1,0 +1,14 @@
+{
+  "name": "@rmdes/indiekit-startup-gate",
+  "version": "1.0.0",
+  "description": "Defers plugin background tasks until the Indiekit host signals readiness (e.g., after Eleventy build completes).",
+  "type": "module",
+  "exports": "./index.js",
+  "files": ["index.js"],
+  "keywords": ["indiekit", "indiekit-plugin", "startup", "readiness"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rmdes/indiekit-startup-gate.git"
+  }
+}
